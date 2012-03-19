@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Havenjark">
+  <style name="AddedLine" foreground="#00aa00"/>
+  <style name="Binding" foreground="#b3b784"/>
+  <style name="Comment" foreground="#aeaeae" italic="true"/>
+  <style name="CurrentLine" foreground="#000000" background="#2a4750"/>
+  <style name="CurrentLineNumber" foreground="#808080" bold="true"/>
+  <style name="DiffFile" foreground="#000080"/>
+  <style name="DiffLocation" foreground="#0000ff"/>
+  <style name="DisabledCode" foreground="#797776" background="#2d3639"/>
+  <style name="Doxygen.Comment" foreground="#b3b5af" italic="true"/>
+  <style name="Doxygen.Tag" foreground="#cc9393"/>
+  <style name="Field" foreground="#b3b784"/>
+  <style name="JsGlobalVar" foreground="#93a2cc" italic="true"/>
+  <style name="JsImportVar" foreground="#0055af" italic="true"/>
+  <style name="JsScopeVar" foreground="#2985c7" italic="true"/>
+  <style name="Keyword" foreground="#a38474"/>
+  <style name="Label" foreground="#800000" bold="true"/>
+  <style name="LineNumber" foreground="#c6c5c4" background="#2d3639"/>
+  <style name="Link" foreground="#a893cc"/>
+  <style name="Local" foreground="#a19a83"/>
+  <style name="Number" foreground="#b9a185"/>
+  <style name="Occurrences" foreground="#dfbe95" background="#2d3639"/>
+  <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
+  <style name="Occurrences.Unused" foreground="#808000"/>
+  <style name="Operator" foreground="#f0efd0"/>
+  <style name="Parentheses" foreground="#93a2cc" background="#2d3639" bold="true"/>
+  <style name="Preprocessor" foreground="#a893cc"/>
+  <style name="QmlExternalId" foreground="#93a2cc" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#93a2cc" italic="true"/>
+  <style name="QmlLocalId" foreground="#a19a83" background="#2d3639"/>
+  <style name="QmlRootObjectProperty" foreground="#93a2cc" italic="true"/>
+  <style name="QmlScopeObjectProperty" foreground="#c0b6a8"/>
+  <style name="QmlStateName" foreground="#cc9393" italic="true"/>
+  <style name="QmlTypeId" foreground="#dfbe95"/>
+  <style name="RemovedLine" foreground="#ff0000"/>
+  <style name="SearchResult" foreground="#000000" background="#2d3639"/>
+  <style name="SearchScope" foreground="#000000" background="#2d3639"/>
+  <style name="Selection" background="#41667d"/>
+  <style name="Static" foreground="#93a2cc"/>
+  <style name="String" foreground="#cc9393"/>
+  <style name="Text" foreground="#c0b6a8" background="#2d3639"/>
+  <style name="Type" foreground="#dfbe95"/>
+  <style name="VirtualMethod" foreground="#dfbe95" italic="true"/>
+  <style name="VisualWhitespace" foreground="#c0c0c0"/>
+</style-scheme>
