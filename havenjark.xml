@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="Havenjark">
-  <style name="AddedLine" foreground="#00aa00"/>
+  <style name="AddedLine" foreground="#309d32"/>
   <style name="Binding" foreground="#b3b784"/>
   <style name="Comment" foreground="#aeaeae" italic="true"/>
   <style name="CurrentLine" foreground="#000000" background="#2a4750"/>
@@ -33,7 +33,7 @@
   <style name="QmlScopeObjectProperty" foreground="#c0b6a8"/>
   <style name="QmlStateName" foreground="#cc9393" italic="true"/>
   <style name="QmlTypeId" foreground="#dfbe95"/>
-  <style name="RemovedLine" foreground="#ff0000"/>
+  <style name="RemovedLine" foreground="#c50000"/>
   <style name="SearchResult" foreground="#000000" background="#2d3639"/>
   <style name="SearchScope" foreground="#000000" background="#2d3639"/>
   <style name="Selection" background="#41667d"/>
