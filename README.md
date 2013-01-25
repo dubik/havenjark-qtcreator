@@ -6,4 +6,4 @@ Installation
 
 Copy havenjark.xml to ~/.config/Nokia/qtcreator/styles/ (create if styles/ does not exists).
 
-!https://raw.github.com/dubik/havenjark-qtcreator/master/screenshot.png!
+![Screenshot](https://raw.github.com/dubik/havenjark-qtcreator/master/screenshot.png)
